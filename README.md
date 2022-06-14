@@ -1,4 +1,4 @@
-## finalproject
+## Future Ready Talent project by Bhanu Pathak
 Here, I've created agriculture or fresh dairy product store named Agricfarm that help customer to get fresh item in cheap rates and genuine product and this is my final project.This is my final project.
 ## My website link: https://white-beach-0eb8e1810.1.azurestaticapps.net/
 ## Home page
@@ -11,3 +11,6 @@ Here, I've created agriculture or fresh dairy product store named Agricfarm that
 ![Screenshot (99)](https://user-images.githubusercontent.com/91778441/173544989-d692f866-1f36-4a56-b985-c3cbcc9d2249.png)
 ## Contact
 ![Screenshot (100)](https://user-images.githubusercontent.com/91778441/173545062-d22cdc95-0009-458d-9d50-1593cc997044.png)
+
+## Azure portal screenshot
+![Screenshot (101)](https://user-images.githubusercontent.com/91778441/173546729-851416fe-8a19-4387-ac2f-85f479d57811.png)
