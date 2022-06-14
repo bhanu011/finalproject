@@ -9,8 +9,6 @@ Here, I've created agriculture or fresh dairy product store named Agricfarm that
 ![Screenshot (98)](https://user-images.githubusercontent.com/91778441/173544318-a831b74d-fc76-45e8-962c-2e62685ff32a.png)
 ## Services
 ![Screenshot (99)](https://user-images.githubusercontent.com/91778441/173544989-d692f866-1f36-4a56-b985-c3cbcc9d2249.png)
-![Screenshot (102)](https://user-images.githubusercontent.com/91778441/173548046-06e77ec2-b5e6-4847-b4d5-f2b76f422db6.png)
-
 ## Contact
 ![Screenshot (100)](https://user-images.githubusercontent.com/91778441/173545062-d22cdc95-0009-458d-9d50-1593cc997044.png)
 
